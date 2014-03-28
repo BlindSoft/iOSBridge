@@ -1,6 +1,10 @@
 iOS Bridge
 ==========
 
+-----------------------------------------------------
+    Project is closed and not supported.
+-----------------------------------------------------
+
 Description
 -----------
 
@@ -31,6 +35,11 @@ Also it's easy to add UIKit view above Unity3D container to create GUI elements.
 3. Dynamic fonts
 4. Clear layout and sizing setup
 5. Simple animation
+
+Examples
+--------
+
+Some examples available here: http://blind-soft.info/iosbridge/examples/
 
 Features
 --------
